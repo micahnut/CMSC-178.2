@@ -21,14 +21,16 @@ There is no win condition for the player, you just have to survive. When the pla
 
 Objective <br/>
 
-	To keep the player’s life above zero. <br/>
+To keep the player’s life above zero. <br/>
 
 
 
 ![Gameplay](https://github.com/micahnut/CMSC-178.2/blob/master/flywars/documentation/Gameplay.png)
+<br/>
 This is the game screen. The player will see his or her score and his or her remaining lives. <br/>
 The player is going to control the spaceship and those flies are the enemies. <br/>
 The player’s bullets will come out every time he or she will press the spacebar.  <br/>
 
 ![Gameover](https://github.com/micahnut/CMSC-178.2/blob/master/flywars/documentation/Game%20over.png)
+<br/>
 This is the game over screen. When the player’s life reaches zero, the game is over. 
